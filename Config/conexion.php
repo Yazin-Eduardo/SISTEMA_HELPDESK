@@ -6,17 +6,17 @@
         //FUNCIONALIDAD DE LA CADENA DE CONEXIÓN A LA BASE DE DATOS EN FORMA LOCAL NOMBRE DE LA BASE DE DATOS sistema_helpdesk
         protected function Conexion(){
             try {
-                $conectar = $this->dbh =  new PDO("mysql:local=localhost;dbname=sistema_helpdesk", "root", "");
+                $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=sistema_helpdesk", "root", "");
                 return $conectar;
             } catch (Exception $e) {
-                print " ¡Error DB!: " . $e->getMessage() . "<br/>";
+                print "¡Error DB!: " . $e->getMessage() . "<br/>";
                 die();
             }
         }
 
         //FUNCIÓN UTF8 PARA NO TENER COMPILICACIÓN EN EL IDIOMA ESPAÑOL POR LAS TILDES Y LA LETRA Ñ
         public function set_name(){
-        return $this->dbh->query("SET NAME 'utf8'");
+            return $this->dbh->query("SET NAMES 'utf8'");
         }
 
         //VALIDADCIÓN DE LA RUTA DEL PROYECTO

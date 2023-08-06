@@ -1,4 +1,5 @@
 <?php 
+// CLASE PARA HACER LA CONEXIÓN DEL USUARIO CON LA BASE DE DATOS
     class Usuario extends Conectar{
         public function login() {
             $conectar=parent::conexion();
