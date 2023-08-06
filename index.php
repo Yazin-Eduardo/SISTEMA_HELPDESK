@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 
+<!--INCIO DEL FORMATO PARA EL INICIO DE SESIÓN-->
 <head lang="en">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -77,5 +78,5 @@
     </script>
     <script src="Public/js/app.js"></script>
 </body>
-
+<!--FIN DEL FORMATO PARA EL INICIO DE SESIÓN-->
 </html>
