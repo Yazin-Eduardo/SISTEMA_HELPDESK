@@ -42,7 +42,7 @@
                             <label for="signed-in">Mantener Sesión</label>
                         </div>
                         <div class="float-right reset">
-                            <a href="reset-password.html">Reset Password</a>
+                            <a href="reset-password.html">Recuperar Contraseña</a>
                         </div>
                     </div>
                     <button type="submit" class="btn btn-rounded">Iniciar Sesión</button>
