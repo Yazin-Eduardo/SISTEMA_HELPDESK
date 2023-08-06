@@ -46,7 +46,6 @@
                         </div>
                     </div>
                     <button type="submit" class="btn btn-rounded">Iniciar Sesión</button>
-                    <p class="sign-note">New to our website? <a href="sign-up.html">Sign up</a></p>
                 </form>
             </div>
         </div>
