@@ -7,3 +7,6 @@
 <script type="text/javascript" src="../../public/js/lib/match-height/jquery.matchHeight.min.js"></script>
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script src="../../public/js/app.js"></script>
+<!-- INICIO DEL JS DEL SUMMERNOTE -->
+<script src="../../public/js/lib/summernote/summernote.min.js"></script>
+<!-- FIN DEL JS DEL SUMMERNOTE -->

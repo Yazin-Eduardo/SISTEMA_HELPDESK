@@ -8,6 +8,11 @@
 <link href="img/favicon.57x57.png" rel="apple-touch-icon" type="image/png">
 <link href="img/favicon.png" rel="icon" type="image/png">
 <link href="img/favicon.ico" rel="shortcut icon">
+<!-- INICIO DEL CSS DEL SUMMERNOTE -->
+<link rel="stylesheet" href="../../public/css/lib/summernote/summernote.css"/>
+<link rel="stylesheet" href="../../public/css/separate/pages/editor.min.css">
+<!-- FIN DEL CSS DEL SUMMERNOTE -->
+
 <link rel="stylesheet" href="../../public/css/lib/lobipanel/lobipanel.min.css">
 <link rel="stylesheet" href="../../public/css/separate/vendor/lobipanel.min.css">
 <link rel="stylesheet" href="../../public/css/lib/jqueryui/jquery-ui.min.css">
