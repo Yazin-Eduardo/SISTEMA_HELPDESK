@@ -8,7 +8,7 @@
 <!--INICIO LLAMANDO A LOS CSS DE HEAD-->
 <?php require_once("../MainHead/head.php"); ?>
 <!--FIN LLAMANDO A LOS CSS DE HEAD-->
-<title>SISTEMA HELPDESK::Home</title>
+<title>SISTEMA HELPDESK::Nuevo Ticket</title>
 </head>
 
 <body class="with-side-menu theme-side-caesium-dark-caribbean">
@@ -26,7 +26,7 @@
     <!--CONTENIDO DE LA PAGINA PRINCIPAL DE SISTEMA HELPDESK-->
     <div class="page-content">
         <div class="container-fluid">
-            Blank page.
+            NUEVO TICKET.
         </div>
     </div>
     <!--FIN DEL CONTENIDO DE LA PAGINA PRINCIPAL DE SISTEMA HELPDESK-->
@@ -36,7 +36,7 @@
     <!--FIN DEL LLAMADO DE LOS JS NECESESARIOS DE LA CARPETA MainJs-->
 
     <!-- INICIO JS QUE VA A CONTROLAS NUESTRAS VISTA HTML -->
-    <script type="text/javascript" src="home.js"></script>
+    <script type="text/javascript" src="nuevoticket.js"></script>
     <!-- FIN JS QUE VA A CONTROLAS NUESTRAS VISTA HTML -->
     
 </body>

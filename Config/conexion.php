@@ -19,8 +19,8 @@
             return $this->dbh->query("SET NAMES 'utf8'");
         }
 
-        //VALIDADCIÓN DE LA RUTA DEL PROYECTO
-        public function ruta(){
+        //RUTA O LINK DEL PROYECTO
+        public static function ruta(){
             return "http://localhost/SISTEMA_HELPDESK/";
         }
     }
