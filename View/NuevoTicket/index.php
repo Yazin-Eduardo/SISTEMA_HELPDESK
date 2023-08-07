@@ -64,7 +64,7 @@ if (isset($_SESSION["usu_id"])) {
                             <fieldset class="form-group">
                                 <label class="form-label semibold" for="exampleInputPassword1">Descripción</label>
                                 <div class="summernote-theme-10">
-                                    <textarea id="tick_descrip" class="summernote" name="name">Ingrese la Descripción</textarea>
+                                    <textarea id="tick_descrip" class="summernote" name="name">Ingrese la Descripción del problema</textarea>
                                 </div>
                             </fieldset>
                         </div>
