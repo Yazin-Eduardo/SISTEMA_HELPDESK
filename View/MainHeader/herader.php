@@ -1,8 +1,10 @@
 <header class="site-header">
     <div class="container-fluid">
         <a href="#" class="site-logo">
-            <img class="hidden-md-down" src="../../public/img/logo-2-white-caribbean.png" alt="">
-            <img class="hidden-lg-up" src="../../public/img/logo-2-mob-caribbean.png" alt="">
+            <!--Incio del código para poder cambiar el logo en el navbar-->
+            <img class="hidden-md-down" src="../../public/img/sistemahelpdesk.gif" alt="">
+            <img class="hidden-lg-up" src="../../public/img/sistemahelpdesk.gif" alt="">
+            <!--Fin del código para poder cambiar el logo en el navbar-->
         </a>
         <button class="hamburger hamburger--htla">
             <span>toggle menu</span>
