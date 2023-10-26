@@ -14,7 +14,7 @@
 <body class="with-side-menu theme-side-caesium-dark-caribbean">
 
     <!--LLAMADO AL HEADER DESDE LA CARPETA MainHeader-->
-    <?php require_once("../MainHeader/herader.php") ?>
+    <?php require_once("../MainHeader/header.php") ?>
     <!--FIN DEL LLAMADO AL HEADER DESDE LA CARPETA MainHeader-->
 
     <div class="mobile-menu-left-overlay"></div>
