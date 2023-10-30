@@ -13,6 +13,11 @@
 <link rel="stylesheet" href="../../public/css/separate/pages/editor.min.css">
 <!-- FIN DEL CSS DEL SUMMERNOTE -->
 
+<!-- INICIO DEL CSS DEL SWEETALERT -->
+<link rel="stylesheet" href="../../public/css/lib/bootstrap-sweetalert/sweetalert.css">
+<link rel="stylesheet" href="../../public/css/separate/vendor/sweet-alert-animations.min.css">
+<!-- FIN DEL CSS DEL SWEETALERT -->
+
 <link rel="stylesheet" href="../../public/css/lib/lobipanel/lobipanel.min.css">
 <link rel="stylesheet" href="../../public/css/separate/vendor/lobipanel.min.css">
 <link rel="stylesheet" href="../../public/css/lib/jqueryui/jquery-ui.min.css">

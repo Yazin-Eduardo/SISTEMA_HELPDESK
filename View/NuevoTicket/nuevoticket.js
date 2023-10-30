@@ -40,7 +40,9 @@ function guardaryeditar(e){
         contentType: false,
         processData: false,
         success: function(datos){
-            console.log(datos);
+            $('#tick_titulo').val('');
+            $('#tick_descripcion').summernote('reset');
+            swal("Correcto!", "Datos Guardados Exitosamente:","success");
         }
     });
 }
