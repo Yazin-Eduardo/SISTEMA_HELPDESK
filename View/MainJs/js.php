@@ -8,6 +8,10 @@
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script src="../../public/js/app.js"></script>
 
+<!-- INICIO DEL JS DEL DATATABLE -->
+<script src="../../public/js/lib/datatables-net/datatables.min.js"></script>
+<!-- FIN DEL JS DEL DATATABLE -->
+
 <!-- INICIO DEL JS DEL SWEETALERT -->
 <script src="../../public/js/lib/bootstrap-sweetalert/sweetalert.min.js"></script>
 <!-- FIN DEL JS DEL SWEETALERT -->

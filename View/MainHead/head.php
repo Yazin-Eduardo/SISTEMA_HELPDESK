@@ -13,10 +13,18 @@
 <link rel="stylesheet" href="../../public/css/separate/pages/editor.min.css">
 <!-- FIN DEL CSS DEL SUMMERNOTE -->
 
+<link rel="stylesheet" href="../../public/css/lib/font-awesome/font-awesome.min.css"/>
+<link rel="stylesheet" href="../../public/css/lib/bootstrap/bootstrap.min.css">
+
 <!-- INICIO DEL CSS DEL SWEETALERT -->
 <link rel="stylesheet" href="../../public/css/lib/bootstrap-sweetalert/sweetalert.css">
 <link rel="stylesheet" href="../../public/css/separate/vendor/sweet-alert-animations.min.css">
 <!-- FIN DEL CSS DEL SWEETALERT -->
+
+<!-- INICIO DEL CSS DEL DATATABLE -->
+<link rel="stylesheet" href="../../public/css/lib/datatables-net/datatables.min.css">
+<link rel="stylesheet" href="../../public/css/separate/vendor/datatables-net.min.css">
+<!-- FIN DEL CSS DEL DATATABLE -->
 
 <link rel="stylesheet" href="../../public/css/lib/lobipanel/lobipanel.min.css">
 <link rel="stylesheet" href="../../public/css/separate/vendor/lobipanel.min.css">
